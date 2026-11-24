@@ -1,0 +1,24 @@
+# Maven build intermediates
+Implementation/target/classes/
+Implementation/target/test-classes/
+Implementation/target/generated-sources/
+Implementation/target/generated-test-sources/
+Implementation/target/maven-archiver/
+Implementation/target/maven-status/
+Implementation/target/surefire-reports/
+Implementation/target/original-*.jar
+Implementation/dependency-reduced-pom.xml
+
+# IDE and Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# System and temporary files
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
